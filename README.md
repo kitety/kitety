@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2 align="center">:ghost: Hello stranger，I'm Kitety :ghost:</h2>
 
-<!--
-**kitety/kitety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I love coding ! Enjoy  your life !</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kitety&show_icons=true&theme=Gradient" alt="ltoddy's github stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitety&layout=compact&hide=HTML" alt="ltoddy's top langs"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kitety&layout=compact" alt="ltoddy's wakatime stats"></td>
+  </tr>
+</table>
