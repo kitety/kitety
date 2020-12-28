@@ -8,7 +8,4 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=kitety&show_icons=true&theme=Gradient" alt="ltoddy's github stats"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitety&layout=compact&hide=HTML" alt="ltoddy's top langs"></td>
   </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kitety&layout=compact" alt="ltoddy's wakatime stats"></td>
-  </tr>
 </table>
