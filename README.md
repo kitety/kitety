@@ -10,4 +10,4 @@
   </tr>
  
 </table>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://cdn.jsdelivr.net/gh/kitety/kitety@master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<img src="https://cdn.jsdelivr.net/gh/kitety/kitety@master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/>
