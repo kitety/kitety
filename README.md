@@ -10,4 +10,4 @@
   </tr>
  
 </table>
-<img src="https://cdn.jsdelivr.net/gh/kitety/kitety@master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/>
+<img src="https://raw.githubusercontent.com/kitety/kitety/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/>
