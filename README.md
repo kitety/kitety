@@ -1,6 +1,11 @@
 <h2 align="center">:ghost: Hello stranger，I'm Kitety :ghost:</h2>
 
 <p align="center">I love coding ! Enjoy  your life !</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/kitety/count.svg"/>
+</p>
+
+
 
 
 <table>
